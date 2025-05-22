@@ -1,6 +1,6 @@
 # FuelGuard Website
 
-Modern teknolojiler ve Tailwind CSS kullanılarak geliştirilmiş FuelGuard kurumsal web sitesi.
+Modern teknolojiler ve Tailwind CSS kullanılarak geliştirilmiş FuelGuard kurumsal web sitesi. Bu proje, eski FuelGuard.com.tr sitesinin tamamen yeniden tasarlanmış modern bir versiyonudur.
 
 ## Teknolojiler
 
